@@ -7,6 +7,7 @@
 ## Řešení příkladů
 
 * [Řešení příkladů z lekce slicing, metody, moduly](slicing-metody-moduly.ipynb)
+* [Řešení příkladů z lekce funkce](funkce.ipynb)
 
 ## Příklady
 
