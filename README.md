@@ -6,6 +6,7 @@
 
 ## Řešení příkladů
 
+* [Řešení příkladů z lekce co všechno už umíme](uvod_reseni.ipynb)
 * [Řešení příkladů z lekce slicing, metody, moduly](slicing-metody-moduly.ipynb)
 * [Řešení příkladů z lekce funkce](funkce.ipynb)
 
