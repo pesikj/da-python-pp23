@@ -6,9 +6,11 @@
 
 ## Řešení příkladů
 
-* [Řešení příkladů z lekce co všechno už umíme](uvod_reseni.ipynb)
-* [Řešení příkladů z lekce slicing, metody, moduly](slicing-metody-moduly.ipynb)
-* [Řešení příkladů z lekce funkce](funkce.ipynb)
+* [Řešení příkladů z lekce Co všechno už umíme](uvod_reseni.ipynb)
+* [Řešení příkladů z lekce Slicing, metody, moduly](slicing-metody-moduly.ipynb)
+* [Řešení příkladů z lekce Funkce](funkce.ipynb)
+* [Řešení příkladů z lekce Soubory: čtení a zápis](slovniky.ipynb)
+* [Řešení příkladů z lekce Další datové struktury](soubory.ipynb)
 
 ## Příklady
 
