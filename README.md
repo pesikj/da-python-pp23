@@ -3,6 +3,8 @@
 ## Materiály
 
 * [Závorky v Pythonu](zavorky.ipynb)
+* [Pracovní skupinka 11. 10. 2023](cisteni.ipynb)
+* [Zanořené cykly a range](cykly.ipynb)
 
 ## Řešení příkladů
 
