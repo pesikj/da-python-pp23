@@ -4,6 +4,10 @@
 
 * [Závorky v Pythonu](zavorky.ipynb)
 
+## Úvod do statistiky
+
+* [Lekce 1](statistika-1.ipynb)
+
 ## Řešení příkladů
 
 * [Řešení příkladů z lekce Co všechno už umíme](uvod_reseni.ipynb)
