@@ -8,6 +8,7 @@
 
 ## Úvod do statistiky
 
+* [Instalace](instalace.md)
 * [Lekce 1](statistika-1.ipynb)
 
 ## Řešení příkladů
