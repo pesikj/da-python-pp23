@@ -10,6 +10,7 @@
 
 * [Instalace](instalace.md)
 * [Lekce 1](statistika-1.ipynb)
+* [Lekce 2](statistika-2.ipynb)
 
 ## Řešení příkladů
 
