@@ -10,7 +10,8 @@
 
 * [Instalace](instalace.md)
 * [Lekce 1](statistika-1.ipynb)
-* [Lekce 2](statistika-2.ipynb)
+* [Přehled statistických testů](statistika-2.ipynb)
+* [Lekce 2](statistika-3.ipynb)
 
 ## Řešení příkladů
 
